@@ -1,0 +1,21 @@
+Circuit: * D:\Main Drive\The Univeristy of Queensland\Year 5 Semester 1\ELEC3400\Design Project\Testing\PushPull.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue May 18 09:49:06 2021
+Total elapsed time: 0.024 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 301
+traniter = 277
+tranpoints = 123
+accept = 123
+rejected = 0
+matrix size = 13
+fillins = 0
+solver = Normal
+Matrix Compiler1: 674 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 1.02 KB object code size  0.1/0.2/[0.1]
+
